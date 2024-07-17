@@ -1,0 +1,34 @@
+
+Gostaria de tirar umas dúvidas.
+
+Achei as informações confusas criando seu primeiro aplicativo REACT NATIVE
+
+Verifique se está correta as minhas anotações:
+1° passo (Preparando o ambiente)
+após baixar o VSCode e Node.js é o momento de intalar o Expo:
+no computador abrir terminal e aplicar o comando: npm i -g expo
+no celular baixar Expo50 atraves da loja Google play ou app Store
+
+2° passo (Criando o aplicativo)
+CMD ou VSCode acesse o terminal e o diretorio da pasta do projeto
+aplicar o comando:  npx create-expo-app MeuProjeto --template expo-template-blank@sdk-50
+
+acesse o diretorio do aplicativo
+aplique os comandos nesta ordem
+ 1° npm install expo@latest
+ 2° npx expo install --fix
+ 3° npx expo start
+
+Scannear o QRCode com o celular.
+
+Posso criar vários projeto na mesma pasta de estudo?
+
+Toda vez que eu for criar um novo projeto na mesma pasta de estudo, tenho que 
+repetir o 1° passo(npm i -g expo) e o 2° passo (todos os comandos acima citados)?
+
+Ao Scannear o QRCode pude observar que é direcionado para o ultimo projeto,
+e nao para o projeto que acabei de criar, como resolver de porta(› Metro waiting on exp://192.168.0.101:8081 ?
+
+
+
+
