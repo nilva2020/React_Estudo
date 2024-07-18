@@ -1,7 +1,5 @@
 
-Gostaria de tirar umas dúvidas.
-
-Achei as informações confusas criando seu primeiro aplicativo REACT NATIVE
+Passo a passo para criar um novo projeto com  REACT NATIVE
 
 Verifique se está correta as minhas anotações:
 1° passo (Preparando o ambiente)
@@ -21,14 +19,12 @@ aplique os comandos nesta ordem
 
 Scannear o QRCode com o celular.
 
-Posso criar vários projeto na mesma pasta de estudo?
 
-Toda vez que eu for criar um novo projeto na mesma pasta de estudo, tenho que 
-repetir o 1° passo(npm i -g expo) e o 2° passo (todos os comandos acima citados)?
+Acessando o projeto posteriormente
+no termina acesse o diretório do projeto
+insira  3° npx expo start
 
-Ao Scannear o QRCode pude observar que é direcionado para o ultimo projeto,
-e nao para o projeto que acabei de criar, como resolver de porta(› Metro waiting on exp://192.168.0.101:8081 ?
-
+**** Este comando inicia o projeto no expo 
 
 
 
